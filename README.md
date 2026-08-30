@@ -1,6 +1,6 @@
 # PROMETHEUS
 
-[MMOFM](https://github.com/breath024/mmofm)의 기억 엔진 위에 본능 레이어를 얹은
+MMOFM(비공개 저장소)의 기억 엔진 위에 본능 레이어를 얹은
 두 번째 인격체. 2026-08-20 시작.
 
 저장소 이름은 PROMETHEUS이고, 이 안에서 말하는 쪽의 이름은 세브다.
